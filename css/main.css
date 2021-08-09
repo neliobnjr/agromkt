@@ -38,8 +38,8 @@ body{
   transition: .6s;
   }
   img{
-  width: auto;
-  height: auto;
+  width: 200;
+  height: 150;
   text-align: center;
   margin: 0 auto;
   display: block;
