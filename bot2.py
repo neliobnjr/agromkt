@@ -149,3 +149,5 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
+
+    #start checking what is going on with the session
