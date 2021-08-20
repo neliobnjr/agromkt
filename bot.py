@@ -27,7 +27,7 @@ def error(update, context):
 
 def main():
 	#Start the bot
-	updater = Updater("1960156435:AAHDijwe7rJZ_iSxuU84CP8fQMe2Vpkaahw", use_context=True)
+	updater = Updater("token", use_context=True)
 
 	dp = updater.dispatcher
 	dp.add_handler(CommandHandler("start", start))
