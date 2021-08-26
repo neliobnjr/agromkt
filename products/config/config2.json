@@ -1,4 +1,19 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "product": "Vagao forrageiro case",
+            "ID": "08262021-121332",
+            "photo_location": "products/08262021-121332.jpg",
+            "vendedor_phone": "034984053060",
+            "vendedor_nome": "Zezin"
+        },
+        {
+            "product": "Plantadeira PlantCenter",
+            "ID": "08262021-131442",
+            "photo_location": "products/08262021-131442.jpg",
+            "vendedor_phone": "034984095043",
+            "vendedor_nome": "Nicolas"
+        }
+    ]
 }
