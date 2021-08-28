@@ -2,20 +2,6 @@
     "type": "FeatureCollection",
     "features": [
         {
-            "product": "Vagao forrageiro case",
-            "ID": "08262021-121332",
-            "photo_location": "products/08262021-121332.jpg",
-            "vendedor_phone": "034984053060",
-            "vendedor_nome": "Zezin"
-        },
-        {
-            "product": "Vlablabla la",
-            "ID": "08262021-133248",
-            "photo_location": "products/08262021-133248.jpg",
-            "vendedor_phone": "034984053060",
-            "vendedor_nome": "Zezin"
-        },
-        {
             "product": "Pc zoin",
             "ID": "08282021-091724",
             "photo_location": "products/08282021-091724.jpg",
