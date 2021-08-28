@@ -1,12 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "product": "Sert",
-            "ID": "08282021-105203",
-            "photo_location": "products/08282021-105203.jpg",
-            "vendedor_phone": "5534984053060",
-            "vendedor_nome": "5534984053060"
-        }
-    ]
+    "features": []
 }
