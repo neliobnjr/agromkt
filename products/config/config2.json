@@ -21,6 +21,13 @@
             "photo_location": "products/08262021-133248.jpg",
             "vendedor_phone": "034984053060",
             "vendedor_nome": "Zezin"
+        },
+        {
+            "product": "Pc zoin",
+            "ID": "08282021-091724",
+            "photo_location": "products/08282021-091724.jpg",
+            "vendedor_phone": "034984053060",
+            "vendedor_nome": "Zezin"
         }
     ]
 }
