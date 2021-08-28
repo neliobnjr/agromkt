@@ -7,6 +7,13 @@
             "photo_location": "products/08282021-103340.jpg",
             "vendedor_phone": "5534984053060",
             "vendedor_nome": "Nelio"
+        },
+        {
+            "product": "Osklen",
+            "ID": "08282021-103809",
+            "photo_location": "products/08282021-103809.jpg",
+            "vendedor_phone": "5534984053060",
+            "vendedor_nome": "Nelio"
         }
     ]
 }
