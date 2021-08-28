@@ -1,4 +1,12 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "product": "Chopp",
+            "ID": "08282021-080753",
+            "photo_location": "products/08282021-080753.jpg",
+            "vendedor_phone": "5534984053060",
+            "vendedor_nome": "Pinguim"
+        }
+    ]
 }
