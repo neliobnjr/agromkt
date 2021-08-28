@@ -2,13 +2,6 @@
     "type": "FeatureCollection",
     "features": [
         {
-            "product": "Zoio",
-            "ID": "08282021-070032",
-            "photo_location": "products/08282021-070032.jpg",
-            "vendedor_phone": "5534984053060",
-            "vendedor_nome": "Zoi"
-        },
-        {
             "product": "Zoi",
             "ID": "08282021-071129",
             "photo_location": "products/08282021-071129.jpg",
