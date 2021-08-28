@@ -1,4 +1,12 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "product": "Raspberrypi",
+            "ID": "08282021-071344",
+            "photo_location": "products/08282021-071344.jpg",
+            "vendedor_phone": "5534984053060",
+            "vendedor_nome": "Nico"
+        }
+    ]
 }
