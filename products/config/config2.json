@@ -1,12 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "product": "Pulverizador 600L",
-            "ID": "08282021-113736",
-            "photo_location": "products/08282021-113736.jpg",
-            "vendedor_phone": "5534984106634",
-            "vendedor_nome": "Nicolas"
-        }
-    ]
+    "features": []
 }
