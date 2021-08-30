@@ -2,13 +2,6 @@
     "type": "FeatureCollection",
     "features": [
         {
-            "product": "Distribuidor Hidr\u00e1ulico 1300",
-            "ID": "08302021-104334",
-            "photo_location": "products/08302021-104334.jpg",
-            "vendedor_phone": "5534984106634",
-            "vendedor_nome": "Nicolas"
-        },
-        {
             "product": "Oximetro digital",
             "ID": "08302021-111651",
             "photo_location": "products/08302021-111651.jpg",
