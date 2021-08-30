@@ -1,12 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "product": "Oximetro digital",
-            "ID": "08302021-111651",
-            "photo_location": "products/08302021-111651.jpg",
-            "vendedor_phone": "5534984053060",
-            "vendedor_nome": "Ox\u00edmetro digital, perfeito para monitoramento de pacientes com covid"
-        }
-    ]
+    "features": []
 }
