@@ -1,4 +1,12 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "product": "Jaqueta North face preta",
+            "ID": "08302021-145511",
+            "photo_location": "products/08302021-145511.jpg",
+            "vendedor_phone": "5534984053060",
+            "vendedor_nome": "Imperd\u00edvel jaqueta para \u00e9poca de inverno super discreta e com excelente estilo."
+        }
+    ]
 }
