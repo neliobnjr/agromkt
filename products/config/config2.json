@@ -7,6 +7,13 @@
             "photo_location": "products/09012021-082234.jpg",
             "vendedor_phone": "5534984053060",
             "vendedor_nome": "Comfortline pronta entrega"
+        },
+        {
+            "product": "Fox",
+            "ID": "09012021-082834",
+            "photo_location": "products/09012021-082834.jpg",
+            "vendedor_phone": "5534984106634",
+            "vendedor_nome": "3233334w3"
         }
     ]
 }
