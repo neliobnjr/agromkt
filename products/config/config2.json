@@ -9,6 +9,15 @@
             "photo_location3": "products/09022021-091417-3.jpg",
             "vendedor_phone": "5534984106634",
             "vendedor_nome": "Test"
+        },
+        {
+            "product": "DCA 7500 - TATU",
+            "ID": "09022021-091723",
+            "photo_location1": "products/09022021-091723-1.jpg",
+            "photo_location2": "products/09022021-091723-2.jpg",
+            "photo_location3": "products/09022021-091723-3.jpg",
+            "vendedor_phone": "5534984106634",
+            "vendedor_nome": "DISTRIBUIDORA DE CALC\u00c1RIO"
         }
     ]
 }
