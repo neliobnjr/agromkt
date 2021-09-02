@@ -2,13 +2,6 @@
     "type": "FeatureCollection",
     "features": [
         {
-            "product": "Adubadeira Ipacol 10,5m",
-            "ID": "09012021-141956",
-            "photo_location": "products/09012021-141956.jpg",
-            "vendedor_phone": "5534984106531",
-            "vendedor_nome": "Autom\u00e1tico"
-        },
-        {
             "product": "Kit prodts",
             "ID": "09022021-123723",
             "photo_location1": "products/09022021-1237231.jpg",
