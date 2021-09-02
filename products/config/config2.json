@@ -2,15 +2,6 @@
     "type": "FeatureCollection",
     "features": [
         {
-            "product": "Kit prodts",
-            "ID": "09022021-123723",
-            "photo_location1": "products/09022021-1237231.jpg",
-            "photo_location2": "products/09022021-1237232.jpg",
-            "photo_location3": "products/09022021-1237233.jpg",
-            "vendedor_phone": "5534984053060",
-            "vendedor_nome": "Teste"
-        },
-        {
             "product": "Kit teste",
             "ID": "09022021-124026",
             "photo_location1": "products/09022021-124026-1.jpg",
