@@ -23,13 +23,13 @@
             "vendedor_nome": "Eixo rodado duplo - Basculante Hidr\u00e1ulico - Aro 16"
         },
         {
-            "product": "Kit produtos teste",
-            "ID": "09022021-123357",
-            "photo_location1": "products/09022021-1233571.jpg",
-            "photo_location2": "products/09022021-1233572.jpg",
-            "photo_location3": "products/09022021-1233573.jpg",
+            "product": "Kit prodts",
+            "ID": "09022021-123723",
+            "photo_location1": "products/09022021-1237231.jpg",
+            "photo_location2": "products/09022021-1237232.jpg",
+            "photo_location3": "products/09022021-1237233.jpg",
             "vendedor_phone": "5534984053060",
-            "vendedor_nome": "Bla bla bla"
+            "vendedor_nome": "Teste"
         }
     ]
 }
