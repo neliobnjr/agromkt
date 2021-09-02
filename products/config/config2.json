@@ -1,4 +1,14 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "product": "Test",
+            "ID": "09022021-091417",
+            "photo_location1": "products/09022021-091417-1.jpg",
+            "photo_location2": "products/09022021-091417-2.jpg",
+            "photo_location3": "products/09022021-091417-3.jpg",
+            "vendedor_phone": "5534984106634",
+            "vendedor_nome": "Test"
+        }
+    ]
 }
