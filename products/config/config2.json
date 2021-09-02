@@ -39,15 +39,6 @@
             "photo_location3": "products/09022021-124026-3.jpg",
             "vendedor_phone": "5534984053060",
             "vendedor_nome": "Kiteste"
-        },
-        {
-            "product": "Kit test",
-            "ID": "09022021-124220",
-            "photo_location1": "products/09022021-124220-1.jpg",
-            "photo_location2": "products/09022021-124220-2.jpg",
-            "photo_location3": "products/09022021-124220-3.jpg",
-            "vendedor_phone": "5534984053060",
-            "vendedor_nome": "Kit test"
         }
     ]
 }
