@@ -27,6 +27,15 @@
             "photo_location3": "products/09032021-042518-3.jpg",
             "vendedor_phone": "5534984106531",
             "vendedor_nome": "DISTRIBUIDOR E SEMEADEIRA"
+        },
+        {
+            "product": "DISTRIBUIDORA 1300 TRITON",
+            "ID": "09032021-083901",
+            "photo_location1": "products/09032021-083901-1.jpg",
+            "photo_location2": "products/09032021-083901-2.jpg",
+            "photo_location3": "products/09032021-083901-3.jpg",
+            "vendedor_phone": "5534984106531",
+            "vendedor_nome": "DISTRIBUI\u00c7\u00c3O AT\u00c9 34 M"
         }
     ]
 }
