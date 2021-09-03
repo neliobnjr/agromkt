@@ -54,6 +54,15 @@
             "photo_location3": "products/09032021-085034-3.jpg",
             "vendedor_phone": "5534984106531",
             "vendedor_nome": "PULVERIZA\u00c7\u00c3O LOCALIZADA"
+        },
+        {
+            "product": "REVOLVEDOR STIR 2000",
+            "ID": "09032021-085224",
+            "photo_location1": "products/09032021-085224-1.jpg",
+            "photo_location2": "products/09032021-085224-2.jpg",
+            "photo_location3": "products/09032021-085224-3.jpg",
+            "vendedor_phone": "5534984106531",
+            "vendedor_nome": "REVOLVEDOR CAMA"
         }
     ]
 }
