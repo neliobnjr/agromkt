@@ -27,6 +27,15 @@
             "photo_location3": "products/09032021-042518-3.jpg",
             "vendedor_phone": "5534984106531",
             "vendedor_nome": "DISTRIBUIDOR E SEMEADEIRA"
+        },
+        {
+            "product": "Vag\u00e3o Ipacol",
+            "ID": "09032021-074637",
+            "photo_location1": "products/09032021-074637-1.jpg",
+            "photo_location2": "products/09032021-074637-2.jpg",
+            "photo_location3": "products/09032021-074637-3.jpg",
+            "vendedor_phone": "5534984053060",
+            "vendedor_nome": "Autom\u00e1tico"
         }
     ]
 }
