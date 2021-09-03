@@ -45,6 +45,15 @@
             "photo_location3": "products/09032021-084128-3.jpg",
             "vendedor_phone": "5534984106531",
             "vendedor_nome": "6000 L - EIXO TANDEM"
+        },
+        {
+            "product": "PULVERIZADOR XP 600 L",
+            "ID": "09032021-085034",
+            "photo_location1": "products/09032021-085034-1.jpg",
+            "photo_location2": "products/09032021-085034-2.jpg",
+            "photo_location3": "products/09032021-085034-3.jpg",
+            "vendedor_phone": "5534984106531",
+            "vendedor_nome": "PULVERIZA\u00c7\u00c3O LOCALIZADA"
         }
     ]
 }
