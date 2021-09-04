@@ -90,6 +90,15 @@
             "photo_location3": "products/09042021-065353-3.jpg",
             "vendedor_phone": "5534984106531",
             "vendedor_nome": "TI5 - DISPLAY AGRON 5"
+        },
+        {
+            "product": "VAG\u00c3O FORRAGEIRO 4.0 - IPACOL",
+            "ID": "09042021-065550",
+            "photo_location1": "products/09042021-065550-1.jpg",
+            "photo_location2": "products/09042021-065550-2.jpg",
+            "photo_location3": "products/09042021-065550-3.jpg",
+            "vendedor_phone": "5534984106531",
+            "vendedor_nome": "TRATOMIX MISTURADOR"
         }
     ]
 }
