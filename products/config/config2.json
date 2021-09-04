@@ -99,6 +99,15 @@
             "photo_location3": "products/09042021-065550-3.jpg",
             "vendedor_phone": "5534984106531",
             "vendedor_nome": "TRATOMIX MISTURADOR"
+        },
+        {
+            "product": "EMBOLSADORA DE GR\u00c3OS",
+            "ID": "09042021-075317",
+            "photo_location1": "products/09042021-075317-1.jpg",
+            "photo_location2": "products/09042021-075317-2.jpg",
+            "photo_location3": "products/09042021-075317-3.jpg",
+            "vendedor_phone": "5534984106531",
+            "vendedor_nome": "JM EG420S"
         }
     ]
 }
