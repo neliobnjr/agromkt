@@ -117,6 +117,15 @@
             "photo_location3": "products/09042021-080520-3.jpg",
             "vendedor_phone": "5534984106634",
             "vendedor_nome": "VFM TRATOMIX"
+        },
+        {
+            "product": "CARRETA 07 TON - TRITON",
+            "ID": "09042021-081408",
+            "photo_location1": "products/09042021-081408-1.jpg",
+            "photo_location2": "products/09042021-081408-2.jpg",
+            "photo_location3": "products/09042021-081408-3.jpg",
+            "vendedor_phone": "5534984106531",
+            "vendedor_nome": "HIDR\u00c1ULICA - ARO 16"
         }
     ]
 }
