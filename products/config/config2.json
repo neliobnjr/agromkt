@@ -63,6 +63,15 @@
             "photo_location3": "products/09032021-085224-3.jpg",
             "vendedor_phone": "5534984106531",
             "vendedor_nome": "REVOLVEDOR CAMA"
+        },
+        {
+            "product": "ADUBADEIRA CAF\u00c9 - M535 1.2H",
+            "ID": "09042021-064054",
+            "photo_location1": "products/09042021-064054-1.jpg",
+            "photo_location2": "products/09042021-064054-2.jpg",
+            "photo_location3": "products/09042021-064054-3.jpg",
+            "vendedor_phone": "5534984106531",
+            "vendedor_nome": "INOX - ACIONAMENTO INDEPENDENTE"
         }
     ]
 }
