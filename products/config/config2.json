@@ -99,6 +99,15 @@
             "photo_location3": "products/09042021-075317-3.jpg",
             "vendedor_phone": "5534984106531",
             "vendedor_nome": "JM EG420S"
+        },
+        {
+            "product": "DCA 7500 - TATU",
+            "ID": "09042021-080014",
+            "photo_location1": "products/09042021-080014-1.jpg",
+            "photo_location2": "products/09042021-080014-2.jpg",
+            "photo_location3": "products/09042021-080014-3.jpg",
+            "vendedor_phone": "5534984106531",
+            "vendedor_nome": "DISTRIBUIDORA DE CALC\u00c1RIO E ADUBO"
         }
     ]
 }
