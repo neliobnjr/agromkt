@@ -72,6 +72,15 @@
             "photo_location3": "products/09042021-064054-3.jpg",
             "vendedor_phone": "5534984106531",
             "vendedor_nome": "INOX - ACIONAMENTO INDEPENDENTE"
+        },
+        {
+            "product": "VAG\u00c3O FORRAGEIRO TOMBADOR",
+            "ID": "09042021-064957",
+            "photo_location1": "products/09042021-064957-1.jpg",
+            "photo_location2": "products/09042021-064957-2.jpg",
+            "photo_location3": "products/09042021-064957-3.jpg",
+            "vendedor_phone": "5534984106531",
+            "vendedor_nome": "MISTURADOR VFMT 6.0 - 9.0 - 14.0"
         }
     ]
 }
