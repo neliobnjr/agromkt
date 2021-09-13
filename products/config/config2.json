@@ -135,6 +135,15 @@
             "photo_location3": "products/09132021-084835-3.jpg",
             "vendedor_phone": "5534984106531",
             "vendedor_nome": "GTGro 2000"
+        },
+        {
+            "product": "CARRETA CA\u00c7AMBA 12T",
+            "ID": "09132021-091203",
+            "photo_location1": "products/09132021-091203-1.jpg",
+            "photo_location2": "products/09132021-091203-2.jpg",
+            "photo_location3": "products/09132021-091203-3.jpg",
+            "vendedor_phone": "5534984106531",
+            "vendedor_nome": "BASCULANTE HIDR\u00c1ULICO"
         }
     ]
 }
