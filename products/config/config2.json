@@ -126,15 +126,6 @@
             "photo_location3": "products/09042021-081408-3.jpg",
             "vendedor_phone": "5534984106531",
             "vendedor_nome": "HIDR\u00c1ULICA - ARO 16"
-        },
-        {
-            "product": "Teste",
-            "ID": "09122021-174144",
-            "photo_location1": "products/09122021-174144-1.jpg",
-            "photo_location2": "products/09122021-174144-2.jpg",
-            "photo_location3": "products/09122021-174144-3.jpg",
-            "vendedor_phone": "34984053060",
-            "vendedor_nome": "Teste"
         }
     ]
 }
