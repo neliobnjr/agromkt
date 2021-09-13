@@ -126,6 +126,15 @@
             "photo_location3": "products/09042021-081408-3.jpg",
             "vendedor_phone": "5534984106531",
             "vendedor_nome": "HIDR\u00c1ULICA - ARO 16"
+        },
+        {
+            "product": "GUINCHO TRASEIRO",
+            "ID": "09132021-082932",
+            "photo_location1": "products/09132021-082932-1.jpg",
+            "photo_location2": "products/09132021-082932-2.jpg",
+            "photo_location3": "products/09132021-082932-3.jpg",
+            "vendedor_phone": "5534984106531",
+            "vendedor_nome": "BALDAN GTGro 2000"
         }
     ]
 }
