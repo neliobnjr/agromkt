@@ -144,6 +144,15 @@
             "photo_location3": "products/09132021-091203-3.jpg",
             "vendedor_phone": "5534984106531",
             "vendedor_nome": "BASCULANTE HIDR\u00c1ULICO"
+        },
+        {
+            "product": "Colhedora de Forragem ATM",
+            "ID": "09232021-125642",
+            "photo_location1": "products/09232021-125642-1.jpg",
+            "photo_location2": "products/09232021-125642-2.jpg",
+            "photo_location3": "products/09232021-125642-3.jpg",
+            "vendedor_phone": "5534984106531",
+            "vendedor_nome": "PLATAFORMA ATM 1.1 MENTA"
         }
     ]
 }
