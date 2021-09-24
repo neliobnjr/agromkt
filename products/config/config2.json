@@ -153,6 +153,15 @@
             "photo_location3": "products/09232021-125642-3.jpg",
             "vendedor_phone": "5534984106531",
             "vendedor_nome": "PLATAFORMA ATM 1.1 MENTA"
+        },
+        {
+            "product": "PULVERIZADOR 2200 L  AD-18HI",
+            "ID": "09242021-133622",
+            "photo_location1": "products/09242021-133622-1.jpg",
+            "photo_location2": "products/09242021-133622-2.jpg",
+            "photo_location3": "products/09242021-133622-3.jpg",
+            "vendedor_phone": "5534984106531",
+            "vendedor_nome": "BARRA 18 M - 100 Lts/ Min"
         }
     ]
 }
