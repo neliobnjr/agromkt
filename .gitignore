@@ -1,3 +1,4 @@
 pages/*
 bot/*
 bot/keys/keys.py
+keys/keys.py
