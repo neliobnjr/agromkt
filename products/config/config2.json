@@ -171,6 +171,15 @@
             "photo_location3": "products/09242021-141412-3.jpg",
             "vendedor_phone": "5534984106531",
             "vendedor_nome": "GRADE ARADORA BALDAN"
+        },
+        {
+            "product": "PULVERIZADOR CATTONI 500L",
+            "ID": "09282021080319",
+            "photo_location1": "products/09282021080319-1.jpg",
+            "photo_location2": "products/09282021080319-2.jpg",
+            "photo_location3": "products/09282021080319-3.jpg",
+            "vendedor_phone": "5534984106531",
+            "vendedor_nome": "DESCONTO ESPECIAL"
         }
     ]
 }
