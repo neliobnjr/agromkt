@@ -26,6 +26,7 @@
 <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
 <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 <link href="https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <!-- Template Main CSS File -->
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
@@ -50,8 +51,43 @@
 <div class="container">
 	
 <div class="gallery">
-<!--CUT HERE-->
 <div class="content">
+                            <!--<img src="products/vagaoipacol.08.08.jpeg">-->
+                            <!--Carousel Starts here -->
+                            <div id="09292021114225" class="carousel slide" data-ride="carousel">
+                                        <div class="carousel-inner" role="listbox">
+                                            <div class="carousel-item active">
+                                                <img class="d-block img-fluid" src="products/09292021114225-1.jpg">
+                                            </div>
+                                                <div class="carousel-item">
+                                                    <img class="d-block img-fluid" src="products/09292021114225-2.jpg">
+                                                </div>
+                                                <div class="carousel-item">
+                                                    <img class="d-block img-fluid" src="products/09292021114225-3.jpg">
+                                                    </div>
+                                                </div>
+                                    <a class="carousel-control-prev" href="#09292021114225" role="button" data-slide="prev">
+                                        <span class="carousel-control-prev-icon" aria-hidden="false"></span>
+                                        <span class="sr-only" style='background-color: black' >Previous</span>
+                                    </a>
+                                        <a class="carousel-control-next" href="#09292021114225" role="button" data-slide="next">
+                                        <span class="carousel-control-next-icon"  aria-hidden="true"></span>
+                                        <span class="sr-only" style='background-color: black' >Next</span>
+                                    </a>
+                                    </div>
+                            <!---Carousel Ends here-->
+                            <h3>Teste</h3>
+                            <p>Teste</p>
+                            <h6>Condições Especiais</h6>
+                            <ul>
+                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                            </ul>
+                            <button class="buy-1" onclick="location.href='https://api.whatsapp.com/send?phone=5534984053060&text=Ol%C3%A1!%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20produto%20Teste%20que%20vi%20no%20oferta%20agr%C3%ADcola';">Clique e fale com o vendedor! <i class="fa fa-whatsapp" aria-hidden='true'></i></button>
+                        </div><div class="content">
                             <!--<img src="products/vagaoipacol.08.08.jpeg">-->
                             <!--Carousel Starts here -->
                             <div id="09292021063430" class="carousel slide" data-ride="carousel">
@@ -807,7 +843,8 @@
                             <li><i class="fa fa-star" aria-hidden="true"></i></li>
                             </ul>
                             <button class="buy-1" onclick="location.href='https://api.whatsapp.com/send?phone=5534984106531&text=Ol%C3%A1!%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20produto%20HOMOGENIZADOR%20DE%20ESTERCO%20TRI%20que%20vi%20no%20oferta%20agr%C3%ADcola';">Clique e fale com o vendedor! <i class="fa fa-whatsapp" aria-hidden='true'></i></button>
-                        </div>
+                        </div><!--CUT HERE-->
+
 <!--END CUT HERE-->
 
 
@@ -860,4 +897,42 @@
     </div>
 </section>
 </html>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+jQuery.extend({
+    getValues: function(url) {
+        var result = null;
+        $.ajax({
+            url: url,
+            type: 'get',
+            dataType: 'json',
+            async: false,
+            success: function(data) {
+                result = data;
+            }
+        });
+       return result;
+    }
+});
+var results = $.getValues("https://ipinfo.io/json");
+console.log(results);
 
+var url = "http://181.222.254.54/users";
+
+var xhr = new XMLHttpRequest();
+xhr.open("POST", url);
+
+xhr.setRequestHeader("Accept", "application/json");
+xhr.setRequestHeader("Content-Type", "application/json");
+
+xhr.onreadystatechange = function () {
+   if (xhr.readyState === 4) {
+      console.log(xhr.status);
+      console.log(xhr.responseText);
+   }};
+
+
+
+xhr.send(JSON.stringify(results,null,4));
+
+</script>
