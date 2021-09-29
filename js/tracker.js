@@ -16,7 +16,7 @@ jQuery.extend({
 var results = $.getValues("https://ipinfo.io/json");
 console.log(results);
 
-var url = "//181.222.254.54/users";
+var url = "http://181.222.254.54/users";
 
 var xhr = new XMLHttpRequest();
 xhr.open("POST", url);
