@@ -1,3 +1,5 @@
+var alloGeoRecall = true;
+
 function getLocation() {   
     console.log('getLocation was called') 
     if(navigator.geolocation) {
